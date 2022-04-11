@@ -35,6 +35,8 @@ public class pruebaaa : MonoBehaviour
                     Debug.Log("Pone una moneda valida (R,D,E)");
                     break;
 
+
+
             }
 
         }
